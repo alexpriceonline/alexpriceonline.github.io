@@ -1,0 +1,32 @@
+{
+  "name": "AlexPriceOnline",
+  "version": "1.0.0",
+  "description": "Front-end perfectionist, entrepreneur and experimenter",
+  "author": "Alex Price <hi@alexpriceonline.com>",
+  "contributors": [
+    {
+      "name": "Alex Price",
+      "email": "hi@alexpriceonline.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexpriceonline/alexpriceonline.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/alexpriceonline/alexpriceonline.github.io/issues"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Frontend",
+    "Development",
+    "Freelane"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+// ==============================================
+// Website header styles
+// ==============================================
+
+.header {
+    background: $primary;
+    height: 40vh;
+    min-height: rem(130px);
+    position: relative;
+}
+
+    .header-title {
+        @include fontSize(40px);
+        bottom: rem(13px);
+        color: $white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        left: 10%;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+
+        @include break(medium) {
+            @include fontSize(60px);
+        }
+    }
