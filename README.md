@@ -10,8 +10,8 @@
 
 ### Contact
 
-hi@alexpriceonline.com
+📧  hi@alexpriceonline.com
 
-+44 (0) 7977 336726
+📞  +44 (0) 7977 336726
 
-[@alexpriceonline](http://twitter.com/alexpriceonline/)
+🐦: [@alexpriceonline](http://twitter.com/alexpriceonline/)

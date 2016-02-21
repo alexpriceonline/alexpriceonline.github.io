@@ -15,11 +15,23 @@ html, body {
 
 body {
     background: $white;
-    font-family: "HelveticaNeue-Light",
-                 "Helvetica Neue Light",
-                 "Helvetica Neue",
-                 Helvetica,
-                 Arial,
-                 "Lucida Grande",
-                 sans-serif;
+    position: relative;
+    min-height: 100vh;
+}
+
+body::after {
+    background-image: url('//alexpriceonline.github.io/images/alex.png');
+    background-size: 30vh;
+    bottom: rem(-10px);
+    content: '';
+    display: block;
+    height: 30vh;
+    opacity: 0.2;
+    position: absolute;
+    right: 0;
+    width: 30vh;
+
+    @include break(medium) {
+        opacity: 0.3;
+    }
 }

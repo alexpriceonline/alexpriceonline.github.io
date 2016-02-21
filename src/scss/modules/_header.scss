@@ -24,3 +24,17 @@
             @include fontSize(60px);
         }
     }
+
+        .header-title-degree {
+            @include fontSize(18px);
+            display: block;
+            font-style: italic;
+            font-weight: 400;
+            opacity: 0.3;
+
+            @include break(medium) {
+                @include fontSize(16px);
+                display: inline;
+                opacity: 0.2;
+            }
+        }
