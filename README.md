@@ -4,9 +4,13 @@
 
 ### Projects
 
+[StorySumo.io](http://storysumo.io/)
+
 [FrontendGems.com](http://frontendgems.com/)
 
-[StorySumo.io](http://storysumo.io/)
+[SmartAsk.me](http://smartask.me/)
+
+[The Business Brainstorm](http://www.meetup.com/bristol-business-brainstorm/)
 
 ### Contact
 
