@@ -18,8 +18,7 @@ body {
 
 body {
     background: $white;
-    min-height: 100vh;
-    overflow: hidden;
+    min-height: calc(100vh - 10px);
     position: relative;
 }
 
