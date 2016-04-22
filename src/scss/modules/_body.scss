@@ -61,7 +61,7 @@
         transition: border 0.2s ease-in-out;
 
         &:nth-of-type(4) {
-            margin: rem(0 0 30px);
+            margin: rem(0 0 20px);
         }
 
         @include break(medium) {
