@@ -54,25 +54,17 @@
         color: $primary;
         display: inline-block;
         float: left;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
         margin: rem(0 0 3px);
         padding: 0;
         text-decoration: none;
         -webkit-transition: border 0.2s ease-in-out;
         transition: border 0.2s ease-in-out;
 
-        &:nth-of-type(4) {
-            margin: rem(0 0 20px);
-        }
-
         @include break(medium) {
             @include fontSize(22px);
         }
-    }
-
-    .body-link.mod-internal,
-    .body-link.mod-external {
-        font-family: 'Quicksand', sans-serif;
-        font-weight: 700;
     }
 
     .body-link.mod-external::after {
@@ -86,9 +78,14 @@
         }
     }
 
+    .body-link.mod-margin {
+        margin: rem(0 0 20px);
+    }
+
     .body-link.mod-contact {
         @include fontSize(14px);
         font-family: 'Roboto Slab', serif;
+        font-weight: 400;
         padding: rem(0 0 3px);
 
         @include break(medium) {
@@ -122,7 +119,7 @@
         transition: opacity 0.2s ease-in-out;
     }
 
-    .body-link:hover {
+    a.body-link:hover {
         border-bottom-color: $primary;
 
         &::after,
