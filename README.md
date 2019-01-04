@@ -1,6 +1,6 @@
 # Depreciated
 
-Checkout the new [jumpsoft.co,uk](https://github.com/remotealex/jumpsoft) repo.
+Checkout the new [jumpsoft.co.uk](https://github.com/remotealex/jumpsoft) repo.
 
 ### Contact
 
