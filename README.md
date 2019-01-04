@@ -1,15 +1,9 @@
-# Alex Price
+# Depreciated
 
-## Front-end perfectionist, entrepreneur and experimenter
-
-### Projects
-
-[StorySumo.io](http://storysumo.io/)
-
-[The Business Brainstorm](http://www.meetup.com/bristol-business-brainstorm/)
+Checkout the new [jumpsoft.co,uk](https://github.com/remotealex/jumpsoft) repo.
 
 ### Contact
 
-📧  hi@alexpriceonline.com
+📧  alex@jumpsoft.co.uk
 
 📞  +44 (0) 7977 336726
